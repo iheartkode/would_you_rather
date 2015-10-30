@@ -32,12 +32,12 @@ var set2 = [
 // set two code
 var set2Pos = 0;
 
-$("#setTwo").on("click", function() {
+$("#Tech").on("click", function() {
   if (set2Pos < set2.length) {
     $("#question-output").text(set2[set2Pos]);
     set2Pos++;
   }else{
-    alert("You Completed Set Two!");
+    alert("You Completed the tech set!");
   }
 });
 
@@ -45,28 +45,28 @@ $("#setTwo").on("click", function() {
 // set one code
 var set1Pos = 0;
 
-$("#setOne").on("click", function() {
+$("#General").on("click", function() {
   if (set1Pos < set1.length) {
       $("#question-output").text(set1[set1Pos]);
       set1Pos++;
   }else{
-    alert("You Completed Set One!")
+    alert("You Completed The General Set!")
   }
  });
 
  $("#settings").on("click", function() {
      window.location.href = "index.html";
-})
+});
 
 // set three code
-$("#setThree").on("click",function() {
+$("#Girl").on("click",function() {
   $("#question-output").text("Girl questions are coming soon...");
-})
+});
 
 //set four code
-$("#setFour").on("click",function() {
+$("#Boy").on("click",function() {
   $("#question-output").text("Boy questions are coming soon...");
-})
+});
 
 $("#question-output").text("Choose a set of Questions to begin...");
 
