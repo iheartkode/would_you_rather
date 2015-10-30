@@ -1,1 +1,3 @@
-Would you rather app
+Would you rather? Is an app that is useful with 2 or more people.
+You choose a category and it will ask you engaging questions.
+This is a work in progress...
