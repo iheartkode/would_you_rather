@@ -12,7 +12,7 @@ var set1 = [
     "be able to speak fluently every language in the world or be the best in the world at something of your choosing?",
     "be in prison for five years in solitary confinement or not ever go to prison and not ever become rich?",
     "wear a snow suit in the desert or be naked in Antarctica?",
-    "change the past or be able to see into the future?",
+    "change the past or be able to see into the future?"
 ];
 
 var set2 = [
