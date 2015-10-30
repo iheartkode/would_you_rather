@@ -69,5 +69,3 @@ $("#Boy").on("click",function() {
 });
 
 $("#question-output").text("Choose a set of Questions to begin...");
-
-
