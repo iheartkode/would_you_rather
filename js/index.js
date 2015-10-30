@@ -60,12 +60,12 @@ $("#setOne").on("click", function() {
 
 // set three code
 $("#setThree").on("click",function() {
-  $("#question-output").text("Set Three is coming soon...");
+  $("#question-output").text("Girl questions are coming soon...");
 })
 
 //set four code
 $("#setFour").on("click",function() {
-  $("#question-output").text("Set four is coming soon...");
+  $("#question-output").text("Boy questions are coming soon...");
 })
 
 $("#question-output").text("Choose a set of Questions to begin...");
